@@ -326,6 +326,7 @@ section {
 /* History Section */
 .History {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
     background: linear-gradient(135deg, #1a1a1a 0%, #241010 100%);
     color: #ffffff;
     line-height: 1.6;
